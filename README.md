@@ -1,5 +1,5 @@
 # Patient-Treatment-Classification
-EDA and Classification Modeling using PySpark
+EDA and Classification Modeling using PySpark.
 
 Data Set Information:
 
